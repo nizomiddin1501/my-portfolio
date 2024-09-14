@@ -28,19 +28,7 @@
 
 <br/>
 
-## Support
-
-I do need **support** from amazing people like you as I started posting on **[My Linkedin](https://linkedin.com/in/rammcodes)** and want each one of you to checkout **[My Linkedin](https://linkedin.com/in/rammcodes)** Profile where I post amazing content related to Programming & Web Development 🚀
-
-<a href="https://linkedin.com/in/rammcodes">
-<div align="center">
-  <img src="https://i.postimg.cc/3RhcKdTD/www-linkedin-com-in-rammcodes-4.png" alt="Ram Maheshwari Linkedin Profile" width="100%" />
-  <br>
-</div>
-</a>
-
-<br/>
-
+ 
 ---
 
 <br/>
