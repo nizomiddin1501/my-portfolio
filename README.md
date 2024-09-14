@@ -1,11 +1,11 @@
-# Dopefolio 🔥
+# My Portfolio 🔥
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+## [Demo Link](https://nizomiddin-portfolio.netlify.app/) 🔗
 
 <div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
+  <img src="./assets/gif.gif" alt="my portfolio demo" width="100%" />
   <br>
 </div>
 
